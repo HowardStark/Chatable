@@ -11,8 +11,8 @@ been under development for close to two months.
 Features
 ========
 
-*Auto-updating
-*Usernames
+* Auto-updating
+* Usernames
 
 
 
