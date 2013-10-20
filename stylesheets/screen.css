@@ -219,7 +219,7 @@ section#downloads a {
   display: block;
   position: relative;
   height: 67px;
-  width: 275px;
+  width: 550px;
   padding-top: 130px;
   background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
   text-align: center;
@@ -251,7 +251,7 @@ section#downloads a.tgz {
 }
 
 section#downloads a.zip:hover {
-  background-position: -550px -197px;
+  background-position: 0px -197px;
 }
 
 section#downloads a.tgz:hover {
